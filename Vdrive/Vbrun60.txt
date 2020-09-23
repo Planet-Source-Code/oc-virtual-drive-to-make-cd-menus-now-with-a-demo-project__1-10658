@@ -1,0 +1,11 @@
+Visual Basic 6.0 Run-time Setup
+
+Download the Visual Basic 6.0 Run-time Setup
+Put it in the root dir with the rest of the files
+Then edit the Vb6rtime.bat
+FIND THIS LINE >>>  More Vbrun60.txt
+Change it to the name of the "vbrun60sp3.exe /Q" file "8 letters max" 
+We don't want this "vbrun6~1.exe"  Rename it if you have too
+
+/Q is for Quiet mode
+
